@@ -1,0 +1,61 @@
+Privacy Policy — SR App
+
+Last updated: April 9, 2026
+
+This Privacy Policy explains how SR App ("we", "us" or "our") collects, uses, discloses, and protects information when you use our application.
+
+1. Information We Collect
+
+1.1 Personal Information
+We may collect personal information you provide directly, such as name, email address, phone number, and any other information you choose to provide when contacting us or creating an account (if applicable).
+
+1.2 Usage and Device Information
+We automatically collect information about your device and how you access and use the app. This may include IP address, device identifiers, operating system, app version, crash reports, and usage statistics.
+
+1.3 Cookies and Similar Technologies
+We may use cookies and similar tracking technologies to operate and improve the app and to analyze usage. You can control cookie preferences in your device or browser settings.
+
+2. How We Use Your Information
+
+- To provide, maintain, and improve the app and its features.
+- To respond to your requests and provide customer support.
+- To analyze usage patterns and improve performance.
+- To send important notices, updates, and marketing communications when you consent.
+
+3. Sharing Your Information
+
+We do not sell your personal information. We may share information with:
+
+- Service providers who perform services on our behalf (analytics, hosting, crash reporting).
+- When required by law, to comply with legal processes or protect our rights.
+- In connection with a merger, sale, or transfer of assets (you will be notified where required by law).
+
+4. Third-Party Services
+
+The app may use third-party services (e.g., analytics, crash reporting). These services have their own privacy policies and practices. Examples include Google Analytics, Firebase, or other providers. Review their policies for details.
+
+5. Data Security
+
+We implement reasonable administrative, technical, and physical safeguards to protect information. However, no method of transmission or storage is 100% secure. We cannot guarantee absolute security.
+
+6. Children’s Privacy
+
+The app is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, contact us to request deletion.
+
+7. Data Retention
+
+We retain personal information only as long as necessary to provide the services, comply with legal obligations, resolve disputes, and enforce our agreements.
+
+8. Your Rights
+
+Depending on your jurisdiction, you may have rights to access, correct, delete, or restrict processing of your personal information. To exercise your rights, contact us at the address below.
+
+9. Changes to this Policy
+
+We may update this Privacy Policy from time to time. We will post the updated policy with a revised "Last updated" date. Continued use of the app after changes indicates acceptance of the revised policy.
+
+10. Contact Us
+
+If you have questions or requests regarding this policy, contact us at: privacy@sr-app.example (replace with your contact email).
+
+Thank you for using SR App. Please customize this policy with your app-specific details, data practices, and contact information before publishing.
